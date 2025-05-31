@@ -3,7 +3,7 @@
 Configurações pessoais para Arch Linux com Hyprland, otimizadas para produtividade e estética.  
 Inclui setups para terminal, editor, barra de status, notificações e mais. 
 
-obs: nem tudo foi eu quem criou
+#### obs: nem tudo foi eu quem criou
 
 ## 📦 Dependências
 
@@ -25,6 +25,7 @@ Antes de usar, instale os seguintes pacotes:
 - `mpd` + `ncmpcpp` (player de música)
 - `btop` ou `htop` (monitor do sistema)
 - `grim` e `slurp` (print)
+- `hyprpaper`,`swww` e `waypaper` (ferramenta pra wallpaper)
 
 ### 🎨 Aparência
 - [JetBrains Mono Nerd Font](https://www.nerdfonts.com/font-downloads)
