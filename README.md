@@ -25,7 +25,7 @@ Antes de usar, instale os seguintes pacotes:
 - `mpd` + `ncmpcpp` (player de música)
 - `btop` ou `htop` (monitor do sistema)
 - `grim` e `slurp` (print)
-- `hyprpaper`,`swww` e `waypaper` (ferramenta pra wallpaper)
+- `hyprpaper`,`swww` e `waypaper` (ferramenta para wallpaper)
 
 ### 🎨 Aparência
 - [JetBrains Mono Nerd Font](https://www.nerdfonts.com/font-downloads)
