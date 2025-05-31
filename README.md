@@ -1,7 +1,6 @@
 #  xyz's Arch Linux Dotfiles
 
-Configurações pessoais para Arch Linux com Hyprland, otimizadas para produtividade e estética.  
-Inclui setups para terminal, editor, barra de status, notificações e mais. 
+Configurações pessoais para Arch Linux com Hyprland, Inclui setups para terminal, editor, waybar, notificações e mais. 
 
 #### obs: nem tudo foi eu quem criou
 
