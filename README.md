@@ -29,7 +29,7 @@ Antes de usar, instale os seguintes pacotes:
 - `qt5ct` `qt6ct` (opcional, para temas Qt)
 
 ### 📁 Gerenciador de arquivos (opcional)
-- `thunar` + `tumbler`
+- `dolphin` + `dolphin`
 - `lf` (terminal-based)
 
 ## 🚀 Instalação
