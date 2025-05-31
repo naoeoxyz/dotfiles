@@ -8,7 +8,7 @@ Configurações pessoais para Arch Linux com Hyprland, Inclui setups para termin
 ![Desktop](images/screenshot2.png)
 
 
-#### obs: nem tudo foi eu quem criou
+#### obs: nem tudo foi eu quem criou, a maioria as coisas como a waybar foram criadas pelos usuarios do reddit unixporn
 
 ## 📦 Dependências
 
