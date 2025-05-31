@@ -10,7 +10,6 @@ Antes de usar, instale os seguintes pacotes:
 ### 🖥️ Ambiente gráfico (Wayland)
 - [Hyprland](https://github.com/hyprwm/Hyprland)
 - [Waybar](https://github.com/Alexays/Waybar)
-- [xdg-desktop-portal-hyprland](https://github.com/hyprwm/xdg-desktop-portal-hyprland)
 - `wl-clipboard` `swaybg` `swaylock` `grim` `slurp` `hyprpaper` `brightnessctl`
 
 ### 🧰 Utilitários
