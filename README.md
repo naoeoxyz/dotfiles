@@ -2,6 +2,7 @@
 
 Configurações pessoais para Arch Linux com Hyprland, otimizadas para produtividade e estética.  
 Inclui setups para terminal, editor, barra de status, notificações e mais. 
+
 obs: nem tudo foi eu quem criou
 
 ## 📦 Dependências
