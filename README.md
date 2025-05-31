@@ -19,14 +19,13 @@ Antes de usar, instale os seguintes pacotes:
 - `rofi` (menu de apps)
 - `dunst` (notificações)
 - `fastfetch` (splash info)
-- `playerctl` (controle de mídia)
+- `pavucontrol` (controle de mídia)
 - `mpd` + `ncmpcpp` (player de música)
 - `btop` ou `htop` (monitor do sistema)
 
 ### 🎨 Aparência
 - [JetBrains Mono Nerd Font](https://www.nerdfonts.com/font-downloads)
 - `papirus-icon-theme`
-- `lxappearance` (opcional, para escolher temas GTK)
 - `qt5ct` `qt6ct` (opcional, para temas Qt)
 
 ### 📁 Gerenciador de arquivos (opcional)
