@@ -6,8 +6,10 @@ Configurações pessoais para Arch Linux com Hyprland, Inclui setups para termin
 ![Terminal](images/screenshot.png)
 ## Desktop
 ![Desktop](images/screenshot2.png)
-![Desktop](images/screenshot3.png)
-
+## Rofi
+![Rofi](images/screenshot3.png)
+## Nvim
+![Nvim](images/screenshot4.png)
 
 #### obs: nem tudo foi eu quem criou, a maioria das coisas como a waybar foram criadas pelos usuarios do reddit unixporn
 
