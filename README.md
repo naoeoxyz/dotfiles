@@ -1,4 +1,4 @@
-#  xyz Arch Linux Dotfiles
+#  Arch Linux Dotfiles
 
 Configurações pessoais para Arch Linux com Hyprland, Inclui setups para terminal, editor, waybar, notificações e mais. 
 
