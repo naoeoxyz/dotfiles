@@ -64,17 +64,17 @@ Antes de usar, instale os seguintes pacotes:
    chsh -s /usr/bin/fish
 
 ## Atalhos de Teclado (Keybindings)
-| Atalho                | Ação                               |
-| --------------------- | ---------------------------------- |
-| `Super + T`           | Abrir terminal (Kitty)             |
-| `Super + Q`           | Fechar janela                      |
-| `Super + A`           | Abrir launcher (Rofi)              |
-| `Super + F`           | Alternar modo fullscreen           |
-| `Super + W`           | Alternar layout (split/floating)   |
-| `Super + Esc`         | Esconde a waybar/Abre a waybar     |
-| `Super + P`           | Captura de tela (grim + slurp)     |
-| `Super + 1-9`         | Navega entre as workspaces         |
-| `Super + Shift + 1-9` | Move a janela entre as workspaces  |
-| `Super + Shift +Setas`| Move as janelas                    |
+| Atalho                  | Ação                              |
+| ----------------------- | --------------------------------- |
+| `Super + T`             | Abrir terminal (Kitty)            |
+| `Super + Q`             | Fechar janela                     |
+| `Super + A`             | Abrir launcher (Rofi)             |
+| `Super + W`             | Alternar layout (split/floating)  |
+| `Super + Esc`           | Mostrar/ocultar Waybar            |
+| `Super + P`             | Captura de tela (grim + slurp)    |
+| `Super + 1-9`           | Trocar de workspace               |
+| `Super + Shift + 1-9`   | Mover janela para outro workspace |
+| `Super + Shift + Setas` | Mover janela na direção escolhida |
+
 
 
