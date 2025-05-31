@@ -11,7 +11,7 @@ Configurações pessoais para Arch Linux com Hyprland, Inclui setups para termin
 ## Nvim
 ![Nvim](images/screenshot4.png)
 
-#### obs: nem tudo foi eu quem criou, a maioria das coisas como a waybar foram criadas pelos usuarios do reddit [UnixPorn](https://www.reddit.com/r/unixporn/)
+#### obs: nem tudo foi eu quem criou, a maioria das coisas como a waybar foram criadas pelos usuarios do reddit [unixporn](https://www.reddit.com/r/unixporn/)
 
 ## 📦 Dependências
 
