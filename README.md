@@ -4,7 +4,8 @@ Configurações pessoais para Arch Linux com Hyprland, Inclui setups para termin
 ## 🖼️ Preview
 
 ![Terminal](images/screenshot.png)
-![Terminal](images/screenshot2.png)
+## Desktop
+![Desktop](images/screenshot2.png)
 
 
 #### obs: nem tudo foi eu quem criou
