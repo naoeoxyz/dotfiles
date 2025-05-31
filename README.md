@@ -49,4 +49,7 @@ Antes de usar, instale os seguintes pacotes:
    ln -s ~/.dotfiles/nvim ~/.config/nvim
    ln -s ~/.dotfiles/rofi ~/.config/rofi
    ln -s ~/.dotfiles/dunst ~/.config/dunst
+3. Torne o Fish seu shell padrão (opcional):
+   ```bash
+   chsh -s /usr/bin/fish
 
