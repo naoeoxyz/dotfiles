@@ -29,8 +29,7 @@ Antes de usar, instale os seguintes pacotes:
 - `qt5ct` `qt6ct` (opcional, para temas Qt)
 
 ### 📁 Gerenciador de arquivos (opcional)
-- `dolphin` + `dolphin`
-- `lf` (terminal-based)
+- `dolphin`
 
 ## 🚀 Instalação
 
