@@ -38,3 +38,15 @@ Antes de usar, instale os seguintes pacotes:
 1. Clone os dotfiles:
    ```bash
    git clone https://github.com/naoeoxyz/dotfiles ~/.dotfiles
+
+2. Crie links simbólicos (ou copie) para os diretórios de configuração:
+
+   ```bash
+   ln -s ~/.dotfiles/hypr ~/.config/hypr
+   ln -s ~/.dotfiles/waybar ~/.config/waybar
+   ln -s ~/.dotfiles/kitty ~/.config/kitty
+   ln -s ~/.dotfiles/fish ~/.config/fish
+   ln -s ~/.dotfiles/nvim ~/.config/nvim
+   ln -s ~/.dotfiles/rofi ~/.config/rofi
+   ln -s ~/.dotfiles/dunst ~/.config/dunst
+
